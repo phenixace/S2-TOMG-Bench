@@ -1,0 +1,12 @@
+# S²-Bench dependencies (data and evaluation via Hugging Face datasets)
+datasets>=2.14.0
+pandas
+torch
+transformers
+accelerate
+peft
+rdkit
+selfies
+tqdm
+openai
+requests
