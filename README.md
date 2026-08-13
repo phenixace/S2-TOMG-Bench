@@ -9,6 +9,7 @@
 Authors: Jiatong Li*, Junxian Li*, Weida Wang, Yunqing Liu, Changmeng Zheng, Xiaoyong Wei, Dongzhan Zhou, and Qing Li (* Equal Contribution)
 
 * Arxiv: [https://arxiv.org/abs/2412.14642](https://arxiv.org/abs/2412.14642)
+* Conference Version: [https://dl.acm.org/doi/abs/10.1145/3770855.3817473](https://dl.acm.org/doi/abs/10.1145/3770855.3817473)
 * Hugging Face Datasets: [phenixace/S2-TOMG-Bench](https://huggingface.co/datasets/phenixace/S2-TOMG-Bench) (full, 45k) · [phenixace/S2-TOMG-Bench-mini](https://huggingface.co/datasets/phenixace/S2-TOMG-Bench-mini) (mini, 4.5k)
 * Project Page: [https://phenixace.github.io/tomgbench/](https://phenixace.github.io/tomgbench/)
 
